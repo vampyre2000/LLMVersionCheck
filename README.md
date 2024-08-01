@@ -1,4 +1,4 @@
-# LLMVersionCheck
+# LLM Version Check
 
 Large language models are all the rage at the moment and its hard to keep track of all the updates.
 I was busy checking for updates each day and having to check the software versions each day was a pain.
